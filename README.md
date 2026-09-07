@@ -24,61 +24,58 @@ Fun fact: I believe consistency and small daily improvements matter more than sp
 
 **Languages**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c" title="C" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" title="Java" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=py" title="Python" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
-</p>
-<p align="left">
-  <sub>C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp;&nbsp; JS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java &nbsp;&nbsp;&nbsp; Python &nbsp; HTML5 &nbsp; CSS3</sub>
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48"/><br/><sub>C</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/><sub>C++</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br/><sub>JavaScript</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/><br/><sub>Java</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py" width="48"/><br/><sub>Python</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br/><sub>HTML5</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br/><sub>CSS3</sub></td>
+  </tr>
+</table>
 
 **Frameworks & Libraries**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" title="React" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" title="Flask" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
-</p>
-<p align="left">
-  <sub>Node.js &nbsp; React &nbsp; Express &nbsp; NestJS &nbsp; Flask &nbsp; Bootstrap</sub>
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><sub>Node.js</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/><br/><sub>React</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/><br/><sub>React Native</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"/><br/><sub>Express.js</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="48"/><br/><sub>NestJS</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="48"/><br/><sub>Flask</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/><sub>Bootstrap</sub></td>
+  </tr>
+</table>
 
 **Databases**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" title="Redis" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
-</p>
-<p align="left">
-  <sub>MySQL &nbsp; MongoDB &nbsp; PostgreSQL &nbsp; Redis &nbsp; Firebase</sub>
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/><sub>MySQL</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/><sub>MongoDB</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="48"/><br/><sub>PostgreSQL</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48"/><br/><sub>Redis</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="48"/><br/><sub>Firebase</sub></td>
+  </tr>
+</table>
 
 **Tools & ORM**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=prisma" title="Prisma" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=kafka" title="Kafka" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=cloudinary" title="Cloudinary" />
-</p>
-<p align="left">
-  <sub>Prisma &nbsp; Git &nbsp; GitHub &nbsp; Kafka &nbsp; Postman &nbsp; Cloudflare &nbsp; Supabase &nbsp; Cloudinary</sub>
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="48"/><br/><sub>Prisma</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/><sub>Git</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/><sub>GitHub</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kafka" width="48"/><br/><sub>Kafka</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br/><sub>Postman</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="48"/><br/><sub>Cloudflare</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="48"/><br/><sub>Supabase</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cloudinary" width="48"/><br/><sub>Cloudinary</sub></td>
+  </tr>
+</table>
 
 ---
 
