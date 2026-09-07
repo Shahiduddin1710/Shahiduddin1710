@@ -73,7 +73,7 @@ Fun fact: I believe consistency and small daily improvements matter more than sp
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br/><sub>Postman</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="48"/><br/><sub>Cloudflare</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="48"/><br/><sub>Supabase</sub></td>
-      <td align="center"><img src="https://res.cloudinary.com/cloudinary/image/upload/cloudinary_icon_blue.png" width="48"/><br/><sub>Cloudinary</sub></td>
+  ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
   </tr>
 </table>
 
