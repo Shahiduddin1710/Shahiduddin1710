@@ -102,7 +102,7 @@ Fun fact: I believe consistency and small daily improvements matter more than sp
 
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cloudinary" width="48"/><br/><sub>Cloudinary</sub></td>
+       <td align="center"><img src="https://img.shields.io/badge/-3448C5?style=flat-square&logo=cloudinary&logoColor=white" height="48" width="48"/><br/><sub>Cloudinary</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br/><sub>Postman</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="48"/><br/><sub>Cloudflare</sub></td>
     <td align="center"><img src="https://img.shields.io/badge/-072654?style=flat-square&logo=razorpay&logoColor=2EB6FC" height="48" width="48"/><br/><sub>Razorpay</sub></td>
