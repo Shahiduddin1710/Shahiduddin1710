@@ -25,27 +25,60 @@ Fun fact: I believe consistency and small daily improvements matter more than sp
 **Languages**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,java,py,html,css" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" title="Python" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+</p>
+<p align="left">
+  <sub>C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp;&nbsp; JS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java &nbsp;&nbsp;&nbsp; Python &nbsp; HTML5 &nbsp; CSS3</sub>
 </p>
 
 **Frameworks & Libraries**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,express,nestjs,flask,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" title="React" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+</p>
+<p align="left">
+  <sub>Node.js &nbsp; React &nbsp; Express &nbsp; NestJS &nbsp; Flask &nbsp; Bootstrap</sub>
 </p>
 
 **Databases**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+</p>
+<p align="left">
+  <sub>MySQL &nbsp; MongoDB &nbsp; PostgreSQL &nbsp; Redis &nbsp; Firebase</sub>
 </p>
 
 **Tools & ORM**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=prisma,git,github,kafka,postman,cloudflare,supabase,cloudinary" />
+  <img src="https://skillicons.dev/icons?i=prisma" title="Prisma" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=kafka" title="Kafka" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cloudinary" title="Cloudinary" />
 </p>
-
+<p align="left">
+  <sub>Prisma &nbsp; Git &nbsp; GitHub &nbsp; Kafka &nbsp; Postman &nbsp; Cloudflare &nbsp; Supabase &nbsp; Cloudinary</sub>
+</p>
 
 ---
 
