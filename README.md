@@ -91,7 +91,5 @@ Fun fact: I believe consistency and small daily improvements matter more than sp
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=Shahiduddin1710\&icon=0\&color=0)](https://visitcount.itsvg.in)
-
 
 
