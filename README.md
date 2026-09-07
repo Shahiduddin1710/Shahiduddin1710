@@ -74,6 +74,8 @@ Fun fact: I believe consistency and small daily improvements matter more than sp
     <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="48"/><br/><sub>Cloudflare</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="48"/><br/><sub>Supabase</sub></td>
     <td align="center"><img src="https://img.shields.io/badge/-3448C5?style=flat-square&logo=cloudinary&logoColor=white" height="48" width="48"/><br/><sub>Cloudinary</sub></td>
+        <td align="center"><img src="https://img.shields.io/badge/-072654?style=flat-square&logo=razorpay&logoColor=2EB6FC" height="48" width="48"/><br/><sub>Razorpay</sub></td>
+  
   </tr>
 </table>
 
