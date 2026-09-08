@@ -69,13 +69,13 @@ Fun fact: I believe consistency and small daily improvements matter more than sp
   </tr>
 </table>
 
-**ML / DL**
+**ML**
 
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=sklearn" width="48"/><br/><sub>Scikit-learn</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=matplotlib" width="48"/><br/><sub>Matplotlib</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=plotly" width="48"/><br/><sub>Plotly</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" height="48"/><br/><sub>Matplotlib</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" height="48"/><br/><sub>Plotly</sub></td>
   </tr>
 </table>
 
@@ -85,7 +85,7 @@ Fun fact: I believe consistency and small daily improvements matter more than sp
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="48"/><br/><sub>Netlify</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br/><sub>Vercel</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=render" width="48"/><br/><sub>Render</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" height="48"/><br/><sub>Render</sub></td>
   </tr>
 </table>
 
