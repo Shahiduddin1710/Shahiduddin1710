@@ -74,7 +74,7 @@ Fun fact: I believe consistency and small daily improvements matter more than sp
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=sklearn" width="48"/><br/><sub>Scikit-learn</sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/-11557c?style=flat-square&logo=matplotlib&logoColor=white" height="48" width="48"/><br/><sub>Matplotlib</sub></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48"/><br/><sub>Matplotlib</sub></td>
     <td align="center"><img src="https://img.shields.io/badge/-3F4F75?style=flat-square&logo=plotly&logoColor=white" height="48" width="48"/><br/><sub>Plotly</sub></td>
   </tr>
 </table>
