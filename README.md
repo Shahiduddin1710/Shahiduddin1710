@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&lines=Computer+Engineering+Student;Full+Stack+Developer;DSA+Enthusiast" alt="Typing SVG" />
+</div>
+
 # 💫 About Me:
 I am a Computer Engineering student with a strong interest in software development and problem solving. I enjoy learning new technologies and improving my skills step by step through practice and real-world examples.
 
