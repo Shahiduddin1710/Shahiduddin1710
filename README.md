@@ -93,7 +93,7 @@ Fun fact: I believe consistency and small daily improvements matter more than sp
   </tr>
 </table>
 
-**CI/CD & VCS**
+**CI/CD **
 
 <table>
   <tr>
